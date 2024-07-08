@@ -1,0 +1,3 @@
+C:/Users/ppurn/CLionProjects/deckofcards/cmake-build-debug/CMakeFiles/deckofcards.dir
+C:/Users/ppurn/CLionProjects/deckofcards/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ppurn/CLionProjects/deckofcards/cmake-build-debug/CMakeFiles/rebuild_cache.dir
